@@ -1,16 +1,14 @@
-* {
-    background-color:#F2F672;
-  }
-
-
-
+* { 
+    /* background-color:#5D5D5A; */
+    background-color:#686863;
+   }
 
 
 .container {
     margin: auto;
     width: 330px;
-    /* background: #73C6B6; */
-    background:#2874A6;
+    /* background:#A3E9A4; */
+    background:#3D71B1;
     padding: 20px;
     border-radius: 15px;    
 }
@@ -18,7 +16,7 @@
 
 .container h2 {
     text-align: center;
-    color:#6E2C00;
+    color:#36EC0C;
     text-transform:uppercase;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     border-radius: 50px;
@@ -36,6 +34,7 @@
 
 }
 
+
 .text-field input {
     width: 310px;
     height: 50px;
@@ -45,6 +44,7 @@
     color: #607d8b;
     background-color: #E5E7E9;	
 }
+
 
 .container-tombol {
     width: 310px;
@@ -60,6 +60,7 @@
     border-radius: 10px
 }
 
+
 .tombol, #reset {
     width: 70px;
     background-color: beige;
@@ -67,6 +68,7 @@
     text-align: center;
     padding-top: 10px
 }
+
 
 .tombol:hover,
     #reset:hover {
